@@ -1,5 +1,5 @@
 ### CompositeBezierCurve ###
-A Java implementation of a series of Bézier curves. As specified in the algorithmn at:
+A Java implementation of a series of Bézier curves. As specified in the algorithm at:
 
 https://math.stackexchange.com/questions/2871559/formula-or-algorithm-to-draw-curved-lines-between-points/4207568#4207568
 
